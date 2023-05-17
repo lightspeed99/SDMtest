@@ -1,0 +1,22 @@
+Business Entities:
+	1. Candidates
+		Contact details
+		Education details
+		Project details
+		Work Experience details
+
+	2. Organisation
+		Organisation details
+		Job details
+	3. Administrators of the Empolyee Recuitements System
+
+Business Operations:
+	1. Candidate should be able to create account.
+	2. Candidate should be able to upload information.
+	3. Candidate should be able to search for jobs.
+	4. Candidate should be able to apply for jobs.
+
+	5. Organisation should be able to create account.
+	2. Organisation should be able to upload job profiles.
+	3. Organisation should be able to search for candidates.
+	4. Organisation should be able to offer jobs.
